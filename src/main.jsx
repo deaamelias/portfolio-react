@@ -10,7 +10,7 @@ import "animate.css";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <PreLoader />
+    {/* <PreLoader /> */}
     <div className="container mx-auto px-4">
       <Navbar />
       <App />
