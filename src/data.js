@@ -192,12 +192,14 @@ import Proyek3 from "/assets/proyek/proyek3.webp";
 import Proyek4 from "/assets/proyek/proyek4.webp";
 import Proyek5 from "/assets/proyek/proyek5.webp";
 import Proyek6 from "/assets/proyek/proyek6.webp";
+import Proyek7 from "/assets/proyek/proyek7.webp";
+import Proyek8 from "/assets/proyek/proyek8.webp";
 
 export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Website Sekolah",
+    nama: "Nutrimom",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["HTML", "CSS", "Javascript", "AOS"],
     dad: "200",
@@ -205,7 +207,7 @@ export const listProyek = [
   {
     id: 2,
     gambar: Proyek2,
-    nama: "Company Profile",
+    nama: "Website E-commerce",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["HTML", "CSS", "Javascript", "AOS", "Swiper", "Lightbox Gallery"],
     dad: "300",
@@ -213,7 +215,7 @@ export const listProyek = [
   {
     id: 3,
     gambar: Proyek3,
-    nama: "Web Pernikahan 2.0",
+    nama: "Movie App",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
     dad: "400",
@@ -221,7 +223,7 @@ export const listProyek = [
   {
     id: 4,
     gambar: Proyek4,
-    nama: "Website Course",
+    nama: "The Kost Father",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
     dad: "500",
@@ -237,7 +239,23 @@ export const listProyek = [
   {
     id: 6,
     gambar: Proyek6,
-    nama: "Company Profile 2.0",
+    nama: "Kalimantan Explorer",
+    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+    tools: ["NextJS", "TailwindCSS", "Framermotion"],
+    dad: "700",
+  },
+  {
+    id: 7,
+    gambar: Proyek7,
+    nama: "Fundraising App",
+    desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+    tools: ["NextJS", "TailwindCSS", "Framermotion"],
+    dad: "700",
+  },
+  {
+    id: 8,
+    gambar: Proyek8,
+    nama: "CekCabai",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["NextJS", "TailwindCSS", "Framermotion"],
     dad: "700",
